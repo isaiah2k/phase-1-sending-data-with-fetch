@@ -1,30 +1,225 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "99cb",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "1a4a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "ade0",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "48c4",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c2b3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4d7b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2da9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "65db",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d908",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4744",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3974",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "892e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5201",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "085c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5ec8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "480c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "665b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2234",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c6a8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "26ad",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2be3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5c67",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "ed4f",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "ac56",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "1a40",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "2d5a",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "e081",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "f6f5",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "ba69",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "cb3e",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "3b89",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "29f2",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "eea9",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "e567",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "7b44",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "2629",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "da7b",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    },
+    {
+      "id": "9cc1",
+      "name": "zay0515",
+      "email": "isaiahm.0515@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
